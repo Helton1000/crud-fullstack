@@ -37,7 +37,7 @@
 ```bash
 #Command to clone the repository
 
-$ git clone https://github.com/manualdodev/todolist-fullstack.git
+$ git clone https://github.com/Helton1000/crud-fullstack.git
 ```
 
 ### After cloning the repository, it is necessary to create a MySQL database along with the necessary columns.
